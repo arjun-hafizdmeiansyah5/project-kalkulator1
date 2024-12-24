@@ -1,0 +1,16 @@
+C:\tugas dasar pemrograman vs code 2022\arjun hafizd meiansyah\arjun hafizd meiansyah\bin\Debug\net8.0-windows\arjun hafizd meiansyah.exe
+C:\tugas dasar pemrograman vs code 2022\arjun hafizd meiansyah\arjun hafizd meiansyah\bin\Debug\net8.0-windows\arjun hafizd meiansyah.deps.json
+C:\tugas dasar pemrograman vs code 2022\arjun hafizd meiansyah\arjun hafizd meiansyah\bin\Debug\net8.0-windows\arjun hafizd meiansyah.runtimeconfig.json
+C:\tugas dasar pemrograman vs code 2022\arjun hafizd meiansyah\arjun hafizd meiansyah\bin\Debug\net8.0-windows\arjun hafizd meiansyah.dll
+C:\tugas dasar pemrograman vs code 2022\arjun hafizd meiansyah\arjun hafizd meiansyah\bin\Debug\net8.0-windows\arjun hafizd meiansyah.pdb
+C:\tugas dasar pemrograman vs code 2022\arjun hafizd meiansyah\arjun hafizd meiansyah\obj\Debug\net8.0-windows\arjun_hafizd_meiansyah.Form1.resources
+C:\tugas dasar pemrograman vs code 2022\arjun hafizd meiansyah\arjun hafizd meiansyah\obj\Debug\net8.0-windows\arjun hafizd meiansyah.csproj.GenerateResource.cache
+C:\tugas dasar pemrograman vs code 2022\arjun hafizd meiansyah\arjun hafizd meiansyah\obj\Debug\net8.0-windows\arjun hafizd meiansyah.GeneratedMSBuildEditorConfig.editorconfig
+C:\tugas dasar pemrograman vs code 2022\arjun hafizd meiansyah\arjun hafizd meiansyah\obj\Debug\net8.0-windows\arjun hafizd meiansyah.AssemblyInfoInputs.cache
+C:\tugas dasar pemrograman vs code 2022\arjun hafizd meiansyah\arjun hafizd meiansyah\obj\Debug\net8.0-windows\arjun hafizd meiansyah.AssemblyInfo.cs
+C:\tugas dasar pemrograman vs code 2022\arjun hafizd meiansyah\arjun hafizd meiansyah\obj\Debug\net8.0-windows\arjun hafizd meiansyah.csproj.CoreCompileInputs.cache
+C:\tugas dasar pemrograman vs code 2022\arjun hafizd meiansyah\arjun hafizd meiansyah\obj\Debug\net8.0-windows\arjun hafizd meiansyah.dll
+C:\tugas dasar pemrograman vs code 2022\arjun hafizd meiansyah\arjun hafizd meiansyah\obj\Debug\net8.0-windows\refint\arjun hafizd meiansyah.dll
+C:\tugas dasar pemrograman vs code 2022\arjun hafizd meiansyah\arjun hafizd meiansyah\obj\Debug\net8.0-windows\arjun hafizd meiansyah.pdb
+C:\tugas dasar pemrograman vs code 2022\arjun hafizd meiansyah\arjun hafizd meiansyah\obj\Debug\net8.0-windows\arjun hafizd meiansyah.genruntimeconfig.cache
+C:\tugas dasar pemrograman vs code 2022\arjun hafizd meiansyah\arjun hafizd meiansyah\obj\Debug\net8.0-windows\ref\arjun hafizd meiansyah.dll

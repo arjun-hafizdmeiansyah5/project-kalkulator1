@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "arjun hafizd meiansyah/1.0.0": {
+        "runtime": {
+          "arjun hafizd meiansyah.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "arjun hafizd meiansyah/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
